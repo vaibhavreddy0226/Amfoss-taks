@@ -11,13 +11,11 @@ const playSound = (key) => {
 
   const soundFile = sounds[key];
 
-  if (soundFile) {--
+  if (soundFile) {
     const audio = new Audio(soundFile);
     audio.play();
     addButtonAnimation(key);
-  } else {
-    console.log(No sound mapped for key: ${key});
-  }
+  } 
 };
 
 const handleButtonClick = (event) => {
@@ -52,3 +50,4 @@ const initializeDrumButtons = () => {
   });
 };
 
+initializeDrumButtons();
