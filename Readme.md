@@ -3,3 +3,4 @@ You should choose me for the tech club because I am passionate about technology 
 # How do you intend to contribute back to the club ??
 I am willing to help the group by giving some ideas and also hepling in the every event handiling by the club i will work with all my will and power on the projects of the club and try to give my best out i will develop my skills and use them for going out to hackathons and also represent our clubs at the competetion 
 # 
+i am an intrested guy 
